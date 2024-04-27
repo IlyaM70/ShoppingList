@@ -1,3 +1,3 @@
 # ShoppingList
 
-ShoppingList - desktop app in C# for managing a shopping list
+ShoppingList - desktop app in C#(WPF) for managing a shopping list
